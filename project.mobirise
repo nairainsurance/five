@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "5k",
+    "currentPage": "five",
     "name": "Naira pay",
     "theme": {
       "name": "mobirise3",
@@ -810,9 +810,9 @@
         }
       ]
     },
-    "5k": {
+    "five": {
       "settings": {
-        "title": "5k",
+        "title": "five",
         "meta_descr": "Web Site Builder Description"
       },
       "components": [
